@@ -8,7 +8,7 @@ setup(
   author = 'Arjit Tyagi',                   # Type in your name
   author_email = 'arjittyagi195@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/arjit195/Topsis-ArjitTyagi-102203888',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/arjit195/Topsis-ArjitTyagi-102203888/releases/tag/v_01',    # I explain this later on
+  download_url = 'https://github.com/arjit195/Topsis-Arjit-102203888/releases/tag/v_01',    # I explain this later on
   long_description=open("README.md").read(),
   long_description_content_type="text/markdown",
   install_requires=[            # I get to this in a second
