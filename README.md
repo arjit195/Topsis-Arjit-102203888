@@ -42,7 +42,7 @@ Feel free to fork this repository, make changes, and submit pull requests. Pleas
 To contribute:
 
 1. Fork the repository.
-2. Clone your fork: git clone https://github.com/your-username/Topsis-ArjitTyagi-102203888.git.
+2. Clone your fork: git clone https://github.com/your-username/Topsis-Arjit-102203888.git.
 3. Create a new branch: git checkout -b feature-branch.
 4. Make your changes.
 5. Commit your changes: git commit -m "Description of changes".
