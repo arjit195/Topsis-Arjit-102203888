@@ -7,7 +7,7 @@ setup(
   description = 'A Python package to perform TOPSIS analysis',   # Give a short description about your library
   author = 'Arjit Tyagi',                   # Type in your name
   author_email = 'arjittyagi195@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/arjit195/Topsis-ArjitTyagi-102203888',   # Provide either the link to your github or to your website
+  url = 'https://github.com/arjit195/Topsis-Arjit-102203888',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/arjit195/Topsis-Arjit-102203888/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   long_description=open("README.md").read(),
   long_description_content_type="text/markdown",
